@@ -1,26 +1,7 @@
 gulp-enb-src
 ============
 
-[![NPM Status][npm-img]][npm]
-[![Travis Status][test-img]][travis]
-[![Windows Status][appveyor-img]][appveyor]
-[![Coverage Status][coverage-img]][coveralls]
-[![Dependency Status][david-img]][david]
-
-[npm]:          https://www.npmjs.org/package/gulp-enb-src
-[npm-img]:      https://img.shields.io/npm/v/gulp-enb-src.svg
-
-[travis]:       https://travis-ci.org/gulp-bem/gulp-enb-src
-[test-img]:     https://img.shields.io/travis/gulp-bem/gulp-enb-src.svg
-
-[appveyor]:     https://ci.appveyor.com/project/blond/gulp-enb-src
-[appveyor-img]: http://img.shields.io/appveyor/ci/blond/gulp-enb-src.svg
-
-[coveralls]:    https://coveralls.io/r/gulp-bem/gulp-enb-src
-[coverage-img]: https://img.shields.io/coveralls/gulp-bem/gulp-enb-src.svg
-
-[david]:        https://david-dm.org/gulp-bem/gulp-enb-src
-[david-img]:    http://img.shields.io/david/gulp-bem/gulp-enb-src.svg
+*DEPRECATED repository, moved to mono repository [gulp-bem](https://github.com/bem/gulp-bem/tree/master/packages/gulp-enb-src)*
 
 Helper to get sources with ENB.
 
